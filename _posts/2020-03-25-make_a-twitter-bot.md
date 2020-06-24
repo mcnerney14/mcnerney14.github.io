@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning to Fly the Eclipse"
+title: "Fly the Eclipse"
 data: 2020-06-20
 categories: jekyll update
 ---
