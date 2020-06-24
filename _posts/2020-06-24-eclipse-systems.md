@@ -14,8 +14,6 @@ categories: jekyll update
 
 
 ## **Engine**
-Pratt Whitney 610F
-
-900 lb thrust
-
-Turbofan
+- Pratt Whitney 610F
+- 900 lb thrust
+- Turbofan
